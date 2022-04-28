@@ -1,0 +1,35 @@
+{
+  "productList": [
+    {
+      "id": 1
+    },
+    {
+      "productName": "new ihone",
+      "category": "Electronics",
+      "state": "Brand New",
+      "price": 5,
+      "comment": "dfsdfsdf",
+      "date": "2022-04-05T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "pinneaple",
+      "category": "Fruits",
+      "state": "Brand New",
+      "price": 53,
+      "comment": "yummy\"",
+      "date": "2022-04-14T22:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
